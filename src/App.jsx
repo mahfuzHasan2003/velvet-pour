@@ -11,7 +11,6 @@ function App() {
    <main>
     <NavBar />
     <Hero />
-    <div className="h-dvh" />
    </main>
   )
 }
